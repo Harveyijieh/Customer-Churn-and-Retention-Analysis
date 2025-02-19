@@ -40,7 +40,8 @@ Title: "Dashboard 1"
 Title: "Dashboard 2"
 ![Churn Dashboard](https://github.com/Harveyijieh/Customer-Churn-and-Retention-Analysis/blob/main/Churn%20Dashboard%20Analysis%202.png)
 
-Click to download full report. 
+
+Click to [download](thhp://) full report. 
 
 ## Insights and Business Recommendations
 ### Insights
@@ -63,6 +64,9 @@ Click to download full report.
 - Early Tenure Engagement; since customers churn at the early stages, focus on the onboarding and engagement strategies.
 - Technical support and Issue resolution; enhance the technical support process to ensure fast resolution of complains.
 
+### Tools
+- Postgres [Download here](https://www.postgresql.org/)
+- PowerBI [Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 
 
 
