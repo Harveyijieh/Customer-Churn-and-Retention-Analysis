@@ -32,12 +32,15 @@ To effectively present these insights, An interactive Power BI dashboard was dev
 - Monthly Charges & Churn: Correlation between customer spending and retention.
 - Customer Support Interaction: Analyzing how support engagement impacts churn likelihood.
 ---
-Title: "Dashboard 1"
 
+Title: "Dashboard 1"
 ![Churn Dashboard](https://github.com/Harveyijieh/Customer-Churn-and-Retention-Analysis/blob/main/Churn%20Analysis%20Dashboard%201.png)
+
 ---
-Title: "Dashoard 2"
-![we](https://github.com/Harveyijieh/Customer-Churn-and-Retention-Analysis/blob/main/Churn%20Dashboard%20Analysis%202.png)
+Title: "Dashboard 2"
+![Churn Dashboard](https://github.com/Harveyijieh/Customer-Churn-and-Retention-Analysis/blob/main/Churn%20Dashboard%20Analysis%202.png)
+
+Click to download full report. 
 
 ## Insights and Business Recommendations
 ### Insights
