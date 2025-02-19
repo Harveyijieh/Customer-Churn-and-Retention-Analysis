@@ -68,4 +68,6 @@ Click to [download](https://github.com/Harveyijieh/Customer-Churn-and-Retention-
 - Postgres [Download here](https://www.postgresql.org/)
 - PowerBI [Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 
-Harvey 
+### Job simulation training 
+For more data analysis job simulation [sign up](https://www.theforage.com/) to the forage 
+
