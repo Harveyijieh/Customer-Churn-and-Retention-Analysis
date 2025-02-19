@@ -1,6 +1,5 @@
 # Customer Churn and Retention Analysis
 ---
-(Analyst At Work)
 
 ## Introduction
 Customer churn is a critical challenge for businesses, impacting revenue and growth. This project leverages Power BI to analyze customer data, identify churn patterns, and propose actionable retention strategies. By visualizing key insights, we can understand customer behavior and take proactive measures to improve retention rates.
@@ -29,7 +28,7 @@ Many companies struggle with customer attrition, losing a percentage of their cu
 To effectively present these insights, An interactive Power BI dashboard was developed to visualise:
 - Churn Rate Overview: Displays the total percentage of churned customers.
 - Contract Type Analysis: Compares churn rates across different contract lengths.
-- Monthly Charges & Churn: Correlation between customer spending and retention.
+- Monthly Charges and Churn: Correlation between customer spending and retention.
 - Customer Support Interaction: Analyzing how support engagement impacts churn likelihood.
 ---
 
@@ -56,9 +55,9 @@ Click to [download](https://github.com/Harveyijieh/Customer-Churn-and-Retention-
 
 
 ### Recommendations
-- Customers on monthly plans churn more often → Consider incentives for annual subscriptions.
-- High spenders are more likely to churn → Introduce loyalty discounts or rewards.
-- Customers who don't interact with support churn more → Implement proactive customer outreach.
+- Customers on monthly plans churn more often; Consider incentives for annual subscriptions.
+- High spenders are more likely to churn; Introduce loyalty discounts or rewards.
+- Customers who don't interact with support churn more; Implement proactive customer outreach.
 - Offer discounts or bundled deals for customers at risk of churning.
 - Improve customer engagement by personalized marketing and outreach programs.
 - Early Tenure Engagement; since customers churn at the early stages, focus on the onboarding and engagement strategies.
@@ -71,3 +70,4 @@ Click to [download](https://github.com/Harveyijieh/Customer-Churn-and-Retention-
 ### Job simulation training 
 For more data analysis job simulation [sign up](https://www.theforage.com/) to the forage 
 
+#DataAnalysis #PowerBI
