@@ -31,6 +31,7 @@ To effectively present these insights, An interactive Power BI dashboard was dev
 ---
 title: "Customer Churn Analysis"
 
+![Churn Dashboard]()
 - Churn Rate Overview: Displays the total percentage of churned customers.
 - Contract Type Analysis: Compares churn rates across different contract lengths.
 - Monthly Charges & Churn: Correlation between customer spending and retention.
