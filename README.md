@@ -28,6 +28,9 @@ Many companies struggle with customer attrition, losing a percentage of their cu
 ### Data Visualization with Power BI
 To effectively present these insights, An interactive Power BI dashboard was developed to visualise:
 
+---
+title: "Customer Churn Analysis"
+
 - Churn Rate Overview: Displays the total percentage of churned customers.
 - Contract Type Analysis: Compares churn rates across different contract lengths.
 - Monthly Charges & Churn: Correlation between customer spending and retention.
