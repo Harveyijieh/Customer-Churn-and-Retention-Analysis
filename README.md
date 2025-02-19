@@ -41,7 +41,7 @@ Title: "Dashboard 2"
 ![Churn Dashboard](https://github.com/Harveyijieh/Customer-Churn-and-Retention-Analysis/blob/main/Churn%20Dashboard%20Analysis%202.png)
 
 
-Click to [download](thhp://) full report. 
+Click to [download](https://github.com/Harveyijieh/Customer-Churn-and-Retention-Analysis/blob/main/Customer%20Churn%20Analysis%20PWC.pbix) full report. 
 
 ## Insights and Business Recommendations
 ### Insights
