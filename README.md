@@ -68,6 +68,6 @@ Click to [download](https://github.com/Harveyijieh/Customer-Churn-and-Retention-
 - PowerBI [Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 
 ### Job simulation training 
-For more data analysis job simulation [sign up](https://www.theforage.com/) to the forage 
+For more data analysis job simulation [sign up](https://www.theforage.com/) to the forage.
 
 #DataAnalysis #PowerBI
